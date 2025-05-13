@@ -5,12 +5,12 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     <a href=
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
            
-   <a href="https://github.com/Santanaxy">
+   <a href=">
         <img 
             alt="Instragram" 
             title="me Segue " 
