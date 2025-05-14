@@ -2,8 +2,17 @@
 
 
 Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer
-    <a href=
-        <img 
+    
+      
+        
+        
+        
+        
+        
+        
+        
+        
+       <img 
             alt="Total de estrelas" 
             title="Total de estrelas" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
