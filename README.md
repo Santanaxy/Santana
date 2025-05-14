@@ -8,11 +8,8 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
             alt="Total de estrelas" 
             title="Total de estrelas" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        >/
-   
-    
-    </a>
-    
+        >/ 
+   </a>
    <<a href="https://www.instagram.com/v_santanazx?igsh=MTQ2bnBqcW5rZTVmag==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
      <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
      </a>
