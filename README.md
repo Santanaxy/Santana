@@ -50,15 +50,7 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
   /> <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Santanaxy&theme=neon" 
     alt="Github Estatísticas"
-  />
-
-
- 
-</div>
-
-
-<br><p>
-  <img 
+  /> <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
