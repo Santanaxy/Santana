@@ -1,30 +1,18 @@
  ##  Victor_Santana
 
 
-Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer
+Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer com Programa 
     
       
-  <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        >/ 
-   </a>
-   <<a href="https://www.instagram.com/v_santanazx?igsh=MTQ2bnBqcW5rZTVmag==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-     <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-     </a>
-<a href="https://github.com/Santanaxy"> 
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-
-</p>
-
-
-
----
+ # 🌐 Socials:
+<br>
+ <div align="center">
+    <a href="https://www.instagram.com/ricardorlima_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+    <a href="https://discord.gg/PXd5WrTh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width = "150" target="_blank"></a> 
+    <a href = "mailto:ricardolimaa65@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "132" target="_blank"></a> 
+  </div>
+<br>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -68,9 +56,19 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
   />
 </p> 
 
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardolimaa29&layout=compact&langs_count=20&theme=neon" width="418" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardolimaa29&theme=neon" alt="Github estatísticas"/>
+</div>
+        <br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man gráfico de contribuições" src="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santanaxy/Santana/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/Santanaxy/Santana/output/pacman-contribution-graph.svg">
 </picture>
+
+
+
 
