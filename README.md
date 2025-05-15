@@ -57,20 +57,20 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Santanaxy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p> 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanayz/Santanayz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santanayz/Santanayz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/29Santanayz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man gráfico de contribuições" src="https://raw.githubusercontent.com/Santanaxy/Santanaxy/output/pacman-contribution-graph.svg">
 </picture>
 
