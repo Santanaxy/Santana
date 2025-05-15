@@ -51,7 +51,12 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     src="https://github-readme-streak-stats.herokuapp.com/?user=Santanaxy&theme=neon" 
     alt="Github Estatísticas"
   />
+
+
+ 
 </div>
+
+
 <br><p>
   <img 
     align="left" 
@@ -62,7 +67,10 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
   />
 
 
+
+
 <picture>
+ 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
