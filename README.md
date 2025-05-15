@@ -37,6 +37,10 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
 <br/>
 <br/>
 
+
+
+
+
 ### 📊 Estatísticas
 
 <p>
@@ -48,6 +52,8 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     src="https://github-readme-stats.vercel.app/api?username=Santanaxy&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+ 
+  
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
@@ -55,6 +61,7 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p> 
+
 
 <br>
 
