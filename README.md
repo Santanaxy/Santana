@@ -46,15 +46,19 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santanaxy&layout=compact&langs_count=20&theme=neon" 
-    width="70%" 
+    width="50%" 
     alt="Github Top Linguagens"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Santanaxy&theme=neon" 
-    width="70%" 
+    width="50%" 
     alt="Github Estatísticas"
   />
 </div>
+
+------------------------------------------------
+
+
 
 
 
