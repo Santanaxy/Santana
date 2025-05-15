@@ -4,7 +4,7 @@
 Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cursando Programação de Python Atualmente, eu gosto muito de mexer com Programa 
     
       
-<h1> 🌐 Socials: </h1>
+<h1>🌐 Socials: </h1>
 <br>
  <div align="center">
     <a href="https://www.instagram.com/v_santanazx?igsh=MTQ2bnBqcW5rZTVmag=="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
@@ -14,7 +14,7 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
   </div>
 <br>
 
-<h1></h1> ### 🤖 Linguagens e Tecnologias </h1>
+<h1>🤖 Linguagens e Tecnologias </h1>
 
 <img 
     align="left" 
@@ -40,7 +40,7 @@ Me chamo Victor Santana de Rezende, tenho 18 anos e sou de São Paulo. Estou cur
 
 
 
-<h1> ### 📊 Estatísticas </h1>
+<h1>📊 Estatísticas </h1>
 
 <br>
 <div align="center">
